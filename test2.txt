@@ -1,2 +1,6 @@
 Hello Test 2
+<<<<<<< Updated upstream
 Test feature tạo branch mới và merge
+=======
+New Test
+>>>>>>> Stashed changes
