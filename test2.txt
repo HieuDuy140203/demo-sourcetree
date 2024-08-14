@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Hello Test 2
 <<<<<<< Updated upstream
 Test feature tạo branch mới và merge
 =======
 New Test
 >>>>>>> Stashed changes
+=======
+Hello Test 2
+>>>>>>> parent of 8f5b9dc (Update test2.txt)
